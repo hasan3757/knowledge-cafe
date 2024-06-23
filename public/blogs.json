@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/YW9G4hV/photo1.jpg",
+      "title": "The Forgotten Path",
+      "author": "Samantha Greene",
+      "author_img": "https://i.ibb.co/cJ2q7BK/pic1.jpg",
+      "posted_date": "2024-06-18",
+      "reading_time": "45",
+      "hashtags": ["#fantasy", "#adventure", "#magic"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/vPTNvzD/photo2.jpg",
+      "title": "Shadows of the Moon",
+      "author": "James Anderson",
+      "author_img": "https://i.ibb.co/bWMrDkg/pic2.jpg",
+      "posted_date": "2024-06-17",
+      "reading_time": "60",
+      "hashtags": ["#horror", "#thriller", "#mystery"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/znfYjQb/photo3.jpg",
+      "title": "Beyond the Stars",
+      "author": "Emily Davidson",
+      "author_img": "https://i.ibb.co/8crwwZV/pic3.jpg",
+      "posted_date": "2024-06-16",
+      "reading_time": "30",
+      "hashtags": ["#sci-fi", "#space", "#exploration"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/VV3yh2V/photo4.jpg",
+      "title": "The Silent Forest",
+      "author": "Daniel Roberts",
+      "author_img": "https://i.ibb.co/QjxvNQC/pic4.jpg",
+      "posted_date": "2024-06-15",
+      "reading_time": "50",
+      "hashtags": ["#mystery", "#suspense", "#detective"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/3cnqtCx/photo5.jpg",
+      "title": "Echoes of Yesterday",
+      "author": "Sarah Collins",
+      "author_img": "https://i.ibb.co/BNvPmhJ/pic5.jpg",
+      "posted_date": "2024-06-14",
+      "reading_time": "55",
+      "hashtags": ["#romance", "#drama", "#history"]
+    }
+  ]
+  
